@@ -4,14 +4,14 @@ Amplifier
 Pictures
 ========
 
-![Down view](./pictures/down_view.png "Down view")
+![Down view](http://nbpt.eu/static/amplifier/down_view_pic.jpg "Down view")
 
 There's more in the pictures folder (click the 'Source' tab on the top of the page).
 
 Video
 =====
 
-![Video](./pictures/movie.ogg "Video")
+![Video](http://nbpt.eu/static/amplifier/movie.ogg "Video")
 
 
 Schematics
@@ -20,21 +20,21 @@ Schematics
 The program used to draw the schematics was [LTSpiceIV](http://www.linear.com/designtools/software/ "LTSpiceIV")
 
 
-![Preamp](./schematics/pre_amp.png "Preamp")
+![Preamp](http://nbpt.eu/static/amplifier/pre_amp.png "Preamp")
 
-![Poweramp](./schematics/power_amp.png "Poweramp")
+![Poweramp](http://nbpt.eu/static/amplifier/power_amp.png "Poweramp")
 
-![Powersupply](./schematics/power_supply.png "Powersupply")
+![Powersupply](http://nbpt.eu/static/amplifier/power_supply.png "Powersupply")
 
 
 Physical layout
 ===============
 
-![Bottom view](./physical_layout/down_view.png "Down view")
+![Bottom view](http://nbpt.eu/static/amplifier/down_view_layout.png "Down view")
 
-![Front](./physical_layout/front.png "Front")
+![Front](http://nbpt.eu/static/amplifier/front.png "Front")
 
-![Back](./physical_layout/back.png "back")
+![Back](http://nbpt.eu/static/amplifier/back.png "back")
 
 
 
