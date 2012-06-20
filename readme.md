@@ -11,7 +11,7 @@ There's more in the pictures folder (click the 'Source' tab on the top of the pa
 Video
 =====
 
-![Video](http://nbpt.eu/static/amplifier/movie.ogg "Video")
+[Video](http://nbpt.eu/static/amplifier/movie.ogg "Video")
 
 
 Schematics
@@ -27,16 +27,22 @@ The program used to draw the schematics was [LTSpiceIV](http://www.linear.com/de
 ![Powersupply](http://nbpt.eu/static/amplifier/power_supply.png "Powersupply")
 
 
+    
+
 Physical layout
 ===============
 
 ![Bottom view](http://nbpt.eu/static/amplifier/down_view_layout.png "Down view")
+
+    
 
 ![Front](http://nbpt.eu/static/amplifier/front.png "Front")
 
 ![Back](http://nbpt.eu/static/amplifier/back.png "back")
 
 
+    
+    
 
 ----------------------
 
