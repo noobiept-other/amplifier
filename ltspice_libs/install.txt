@@ -1,0 +1,7 @@
+Go to LTSpiceIV folder (C:\Program Files (x86)\LTspiceIV\ in windows)
+
+Copy the .asy files to:
+    lib/sym/
+    
+and the .sub and .lib to:
+    lib/sub/
