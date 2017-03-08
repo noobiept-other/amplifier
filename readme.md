@@ -1,51 +1,41 @@
-Amplifier
-=========
+# Amplifier #
 
-Pictures
-========
 
-![Down view](http://nbpt.eu/static/random/amplifier/down_view_pic.jpg "Down view")    
+# Pictures #
+
+![Down view](pictures/down_view.png "Down view")
 
 
 There's more in the pictures folder (click the 'Source' tab on the top of the page).
 
-Video
-=====
 
-[Video](http://nbpt.eu/static/random/amplifier/movie.ogg "Video")
+# Video #
+
+[Video](pictures/movie.ogg "Video")
 
 
-Schematics   
-==========
+# Schematics #
 
 The program used to draw the schematics was [LTSpiceIV](http://www.linear.com/designtools/software/ "LTSpiceIV")
 
 
-![Preamp](http://nbpt.eu/static/random/amplifier/pre_amp.png "Preamp")
+![Preamp](schematics/pre_amp.png "Preamp")
 
-![Poweramp](http://nbpt.eu/static/random/amplifier/power_amp.png "Poweramp")
+![Poweramp](schematics/power_amp.png "Poweramp")
 
-![Powersupply](http://nbpt.eu/static/random/amplifier/power_supply.png "Powersupply")
-
-
-    
-
-Physical layout    
-===============    
+![Powersupply](schematics/power_supply.png "Powersupply")
 
 
-![Bottom view](http://nbpt.eu/static/random/amplifier/down_view_layout.png "Down view")    
+# Physical layout #
+
+![Bottom view](physical_layout/down_view.png "Down view")
+
+![Front](physical_layout/front.png "Front")
+
+![Back](physical_layout/back.png "back")
 
 
-
-![Front](http://nbpt.eu/static/random/amplifier/front.png "Front")
-
-![Back](http://nbpt.eu/static/random/amplifier/back.png "back")    
-
-
-
-----------------------    
-
+----------------------
 
 
 Many thanks to the folks at 'allaboutcircuits' for all the help! :)
